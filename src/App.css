@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.btn{
+  margin:5px 10px;
+}
+/* .navbar{
+  background-color: black;
+} */
+.container{
+  margin-top: 50px;
+}
