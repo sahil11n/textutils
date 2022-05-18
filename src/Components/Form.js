@@ -53,11 +53,8 @@ export default function Form(props) {
                 <p>text summary is : {text.length}  characters      and      {text.split(" ").length}   words</p>
                 <h2>Preview</h2>
                 <p>{text.length>0?text:"Enter something to preview it here"}</p>
+
             </div>
-
-
-
-
 
         </>
 
