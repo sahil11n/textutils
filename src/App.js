@@ -6,7 +6,7 @@ import React, { useState } from 'react'
 
 
 function App() {
-  const [mode, setmode] = useState('dark');
+  const [mode, setmode] = useState('light');
   const togglemode =() =>{
     if(mode==='light'){
       setmode('dark');
